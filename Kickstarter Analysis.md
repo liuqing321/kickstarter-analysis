@@ -6,8 +6,7 @@ Louise wants to start out a crowdfunding campaign to help fund her play, Fever.T
 
 ### Purpose
 
-- The purpose of the analysis is to help Louise find out how different campaigns fared in relation to their 
-  launch date and their funding goals. Also we will see if there is any pattern that Louise could follow to make her own campaign successful. 
+The purpose of the analysis is to help Louise find out how different campaigns fared in relation to their launch date and their funding goals. Also we will see if there is any pattern that Louise could follow to make her own campaign successful. 
 
 ## Analysis and Challenges
 
