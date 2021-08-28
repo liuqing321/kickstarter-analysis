@@ -18,6 +18,7 @@ So I translate those strategies into two quesiton,
  2. What is the relationship between goal and outcome? 
 
 To solve the problems, I started with the variables in those two questions,
+
 -Month
 -Goal 
 -Outcomes
