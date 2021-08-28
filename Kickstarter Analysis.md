@@ -20,7 +20,9 @@ So I translate those strategies into two quesiton,
 To solve the problems, I started with the variables in those two questions,
 
 -Month
+
 -Goal 
+
 -Outcomes
 
 The main chanllenge is to process the data and find representative indicators for a successful campaign. Another chanllenge is to find suitable graphs and chart to illstruate the relationships among those variables. 
