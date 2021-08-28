@@ -33,15 +33,17 @@ I tried to establish the relationships between different variables. So I inserte
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
+   ！Theater_Outcomes_vs_Launch.png（https://github.com/liuqing321/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png）
+
    * For theater project campaign, May is the most successful month because The number of successful outcome in May is the highest. Dec is the worst month because the number of failed outcome in Dec is high while the number of successful outcome is at its lowest point.Louise would receive more pledges if she launch her funding campaign in May. 
  
    * Theater is the most popular entertainment. Most of the successful campaign outcomes happened in the category of theater. 
    
 - What can you conclude about the Outcomes based on Goals?
 
-   * Louise's budget is $10,000.00. The possibility of achieving that goal is 48%. If she  could lower her budget to 5000.00, the possibility for a successful campaign could be higher. 
+   * Louise's budget is $10,000.00. The possibility of achieving that goal is 48%. If she  could lower her budget to $5,000.00, the possibility for a successful campaign could be higher. 
  
-   * The rate of success inversely related to the amount of campaign goal when the campaign goal is less than 35,000.00. When the campaign goal is greater than 35,000.00 and less than 45,000.00, the rate of success and the amount of campaign goal is positive correlated. When the campaign goal is higher than 45,000.00, the chance of failure or cancellation become very high. To receive more pledge, Louise could take some risks and change her goal to 40,000.00. 
+   * The rate of success inversely related to the amount of campaign goal when the campaign goal is less than $35,000.00. When the campaign goal is greater than 35,000.00 and less than $45,000.00, the rate of success and the amount of campaign goal is positive correlated. When the campaign goal is higher than $45,000.00, the chance of failure or cancellation become very high. To receive more pledge, Louise could take some risks and change her goal to $40,000.00. 
  
 
 - What are some limitations of this dataset?
