@@ -35,17 +35,21 @@ I tried to establish the relationships between different variables. So I inserte
 
   ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88631769/131232042-705ae716-39d7-462d-a982-db71e05339c0.png)
 
-   * For theater project campaign, May is the most successful month because The number of successful outcome in May is the highest. Dec is the worst month because the number of failed outcome in Dec is high while the number of successful outcome is at its lowest point.Louise would receive more pledges if she launch her funding campaign in May. 
- 
-   * Theater is the most popular entertainment. Most of the successful campaign outcomes happened in the category of theater. 
+   * For theater project campaign, May is the most successful month because The number of successful outcome in May is the highest. Dec is the worst month because the number of failed outcome in Dec is high while the number of successful outcome is at its lowest point. Also after calculating the rate of cancellation of failed outcome, we can see that the rate of cancellation and failure is the highest in Dec, and in May the rate is at its lowest point. Thus, Louise would receive more pledges if she launch her funding campaign in May. And she should avoid starting her campaign in Dec. 
    
+   ![Rate of Failure and Cancellation](https://user-images.githubusercontent.com/88631769/131600317-a0ec52aa-9e7d-4e15-b5fc-c2ef4796f9a8.png)
+
+   
+   * Theater is the most popular entertainment. Most of the successful campaign outcomes happened in the category of theater. 
+ 
+ 
 - What can you conclude about the Outcomes based on Goals?
   ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88631769/131597336-2c6d3cf2-e51e-4e5e-ab99-8ae119915e9f.png)
 
 
-   * Louise's budget is $10,000.00. The possibility of achieving that goal is 48%. If she  could lower her budget to $5,000.00, the possibility for a successful campaign could be higher. 
+   * Louise's budget is $10,000.00. The possibility of achieving that goal is 54%. If she could lower her budget to $5,000.00, the possibility for a successful campaign could be higher. 
  
-   * The rate of success inversely related to the amount of campaign goal when the campaign goal is less than $35,000.00. When the campaign goal is greater than 35,000.00 and less than $45,000.00, the rate of success and the amount of campaign goal is positive correlated. When the campaign goal is higher than $45,000.00, the chance of failure or cancellation become very high. To receive more pledge, Louise could take some risks and change her goal to $40,000.00. 
+   * The rate of success inversely related to the amount of campaign goal when the campaign goal is less than $30,000.00. When the campaign goal is greater than $30,000.00 and less than $45,000.00, the rate of success and the amount of campaign goal is positive correlated. When the campaign goal is higher than $45,000.00, the chance of failure becomes very high, and the rate of successful outcome is negative related to the amount of goal. To receive more pledge, Louise could take some risks and raise her goal to $40,000. 
  
 
 - What are some limitations of this dataset?
@@ -58,5 +62,6 @@ I tried to establish the relationships between different variables. So I inserte
 - What are some other possible tables and/or graphs that we could create?
 
    * The pie chart for successful outcomes based on the parent categories. 
-   * The 100% stacked column could be used to show the percentage of different outcomes for EACH parent/sub category.  
+   * The 100% stacked column could be used to show the percentage of different outcomes for EACH parent/sub category. 
+   * The table for Rate of failure and cancellation by month. The line chart could be used to illustrate the change of rate within one year. 
  
